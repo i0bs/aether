@@ -2,6 +2,10 @@
 
 A mediæval magical tool for C type introspection
 
+| Warning |
+|-
+This project is currently on pause until further notice.
+
 ## Abstract
 
 In the C language, there is no way to introspect information off of a type. You can use functions to manage and handle that data, however,
